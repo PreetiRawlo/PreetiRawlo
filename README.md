@@ -71,7 +71,7 @@ Aspiring Flutter Developer | Passionate about building beautiful mobile apps ðŸš
 </p>
 
 <p align="left">
-  <strong>GitHub:</strong> <a href="https://github.com/PreetiRawlo/Smart-Grocery-Hub" target="_blank">View Repository</a>
+  <strong>GitHub:</strong> <a href="https://github.com/PreetiRawlo/Flutter-grocery-app.git" target="_blank">View Repository</a>
 </p>
 
 
