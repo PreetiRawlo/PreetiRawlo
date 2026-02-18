@@ -1,124 +1,117 @@
 # 👩‍💻 Preeti Rawlo  
-Aspiring Flutter Developer | Passionate about building beautiful mobile apps 🚀
+**Flutter Developer | Production Mobile Apps | Clean Architecture | Riverpod 🚀**
+
+📍 India  
+📧 preetirawlo10@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/preeti-rawlo  
+💻 GitHub: https://github.com/PreetiRawlo  
 
 ---
 
-## 👋 About Me
-- 🌱 A fresher Flutter Developer passionate about creating clean and user-friendly mobile apps.  
-- 💻 Currently working as a Flutter Developer Intern, gaining hands-on experience in Firebase integration and app development.  
-- 🚀 Excited to explore real-world opportunities and grow as a professional mobile app developer.
+## 🚀 Professional Summary
 
-- ---
+Flutter Developer with experience building and deploying production-level mobile applications in a startup environment. Contributed to live Play Store applications and scalable healthcare systems.
 
-## 🛠️ Tools & Technologies
+Experienced in:
+- REST API integration  
+- Firebase Authentication & Cloud Firestore  
+- Riverpod state management  
+- Clean Architecture & Modular UI  
+- Role-based access control & secure session handling  
+
+Focused on building scalable, maintainable, and performance-optimized mobile applications.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F0DB4F?style=for-the-badge&logo=java&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-  <!-- Frameworks -->
+  <!-- Framework -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
 
   <!-- State Management -->
-  <img src="https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GetX-FF4081?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Riverpod-40C4FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Provider-4285F4?style=for-the-badge"/>
 
-  <!-- Flutter Architectures -->
-  <img src="https://img.shields.io/badge/MVVM-FF6F61?style=for-the-badge"/>
+  <!-- Architecture -->
   <img src="https://img.shields.io/badge/Clean%20Architecture-8E44AD?style=for-the-badge"/>
 
-  <!-- Frontend & UI -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
-  <!-- Backend & APIs -->
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-FF6D00?style=for-the-badge"/>
-
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
 
 ---
 
-## 💼 Projects
+## 💼 Professional Experience
 
-### Smart Grocery Hub
-<p align="left">
-  <strong>Description:</strong> A Flutter-based Android app to simplify grocery shopping using REST APIs and Firebase for real-time updates. Users can browse products, manage cart, and track orders seamlessly.
-</p>
+### 🏢 Flutter Developer  
+**Pixizip Solution Pvt. Ltd., Berhampur**  
+📅 Nov 2025 – Present  
 
-<p align="left">
-  <strong>Technologies:</strong> 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+### 📱 PixiFlow – Employee Management App (Live on Play Store)
 
-<p align="left">
-  <strong>GitHub:</strong> <a href="https://github.com/PreetiRawlo/Flutter-grocery-app.git" target="_blank">View Repository</a>
-</p>
-
+- Developed complete User & Admin panels for workforce management  
+- Implemented attendance check-in/check-out & break workflow system  
+- Integrated real-time location tracking  
+- Built lead management & leave application modules  
+- Designed role-based access control  
+- Integrated REST APIs with secure session handling  
+- Contributed to production deployment & issue resolution  
 
 ---
 
-## 🏆 Achievements & Certifications
+## 💼 Internship Experience
 
-- 🎓 [Computer Architecture – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS83S45500023204210308) – Completed course on core computer architecture concepts.  
-- 🎓 [IoT – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS115S85500023704210308) – Learned fundamentals of Internet of Things and applications.  
-- 🎓 [Cloud Computing – NPTEL](https://nptel.ac.in/noc/E_Certificate/NPTEL24CS118S105500031504210308) – Covered cloud concepts, services, and deployment models.  
-- 💼 Flutter Developer Intern – Ongoing – Developing UI screens and learning Flutter project workflows.
+### Flutter Developer Intern  
+**Sanjivani Gramin & Shahari Vikas Prasikshana Samiti**  
+📅 Aug 2025 – Nov 2025  
 
----
+#### 💧 105 Hydrify – Water Tracker App
+- Developed pixel-perfect UI from Figma designs  
+- Built responsive & reusable UI components  
 
-## ⚡ Other Skills
-
-- 🏆 Leadership  
-- 📅 Event Management  
-- 🗣️ Public Speaking  
-- ⏱️ Time Management  
-- 🎨 Material Design  
-- 📱 Responsive UI  
-- 🧩 Widgets  
-- 🧭 Navigation  
-- 📝 Forms
+#### 👗 105 Trendify – Fashion Shop App
+- Implemented Firebase Authentication & Firestore  
+- Structured navigation using GoRouter  
+- Applied Riverpod for state management  
 
 ---
 
-## 🎯 Current Focus
+## 💼 Featured Project
 
-- 🟢 Preparing for Flutter Developer roles  
-- 🔗 Learning advanced Flutter concepts and Firebase integration  
-- ⚡ Practicing API integration and performance optimization  
-- 🛠️ Exploring state management techniques (Provider, GetX, Riverpod)
+### 🛒 Smart Grocery Hub
+
+Flutter-based Android application to simplify grocery shopping using REST APIs and Firebase for real-time updates.
+
+**Features:**
+- Product browsing & cart management  
+- Order tracking system  
+- Firebase integration  
+- Responsive UI  
+
+🔗 Repository:  
+https://github.com/PreetiRawlo/Flutter-grocery-app
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Certifications
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PreetiRawlo&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PreetiRawlo&layout=compact&theme=react" alt="Top Languages" />
-</p>
+- 🎓 Computer Architecture – NPTEL  
+- 🎓 Internet of Things (IoT) – NPTEL  
+- 🎓 Cloud Computing – NPTEL  
 
-## 🔗 Connect With Me
+---
 
-- LinkedIn: [PreetiRawlo](https://www.linkedin.com/in/preeti-rawlo-2916a131b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Email: preetirawlo10@gmail.com
-
-
+⭐ Open to Flutter Developer opportunities & collaboration.
